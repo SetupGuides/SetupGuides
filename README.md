@@ -11,5 +11,5 @@ This repository contains guides on how I set up software I use on my machine. Mo
 
 ### Integrated Development Environments (IDEs) & Text Editors
 
-- Neovim
+- [Neovim](https://github.com/SetupGuides/Neovim)
 
