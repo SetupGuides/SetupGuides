@@ -13,6 +13,10 @@ This repository contains guides on how I set up software I use on my machine. Mo
 
 - [Neovim](https://github.com/SetupGuides/Neovim)
 
+### Shells
+
+- [zsh](https://github.com/SetupGuides/ZSH)
+
 ### Terminals
 
 - [Termux](https://github.com/SetupGuides/Termux)
